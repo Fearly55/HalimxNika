@@ -555,7 +555,7 @@ div.secondarydiv{
 
 @media screen and (max-width: 600px) {
   .layer__header {
-	margin-bottom: -120%;
+	margin-bottom: -100%;
 }
 	.icon {
 		width: 30px;

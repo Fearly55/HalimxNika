@@ -914,7 +914,7 @@ body {
 	letter-spacing: calc(var(--index) / 7.5);
 	transition: var(--transition);
 	color: white;
-	margin-top: 110%;
+	margin-top: 90%;
 	font-family: title, sans-serif;
 }
 

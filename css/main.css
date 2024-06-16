@@ -914,7 +914,6 @@ body {
 	letter-spacing: calc(var(--index) / 7.5);
 	transition: var(--transition);
 	color: white;
-	margin-top: 90%;
 	font-family: title, sans-serif;
 }
 
@@ -1016,7 +1015,7 @@ body {
 	backdrop-filter: blur(3px);
 	margin-left: 10px;
 	margin-right: 10px;
-	margin-top: 490px;
+	margin-top: 110%;
   	border-radius: 20px 20px 20px 20px;
   	color: white;
 

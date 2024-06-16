@@ -903,7 +903,7 @@ body {
 	transition: var(--transition);
 	will-change: transform;
 	color: white;
-	margin-top: 350px;
+	margin-top: 300px;
 	margin-bottom: 20px;
 	font-family: title, sans-serif;
 }
@@ -914,7 +914,7 @@ body {
 	letter-spacing: calc(var(--index) / 7.5);
 	transition: var(--transition);
 	color: white;
-	margin-top: 400px;
+	margin-top: 350px;
 	font-family: title, sans-serif;
 }
 
